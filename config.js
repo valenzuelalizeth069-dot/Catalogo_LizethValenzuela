@@ -11,7 +11,7 @@ const SOCIA = {
   // --------------------------------------------------
   // 1. TU NOMBRE COMPLETO (como aparece en el catálogo)
   // --------------------------------------------------
-  nombre: "Mery M. Paco Soliz",
+  nombre: "Lizeth Valenzuela Rojas",
 
   // --------------------------------------------------
   // 2. TU FOTO
@@ -27,20 +27,20 @@ const SOCIA = {
   //    - Abre WhatsApp Business → Herramientas → Link corto
   //    - Copia el link y pégalo aquí
   // --------------------------------------------------
-  whatsapp: "https://wa.me/message/74UN3F2XR6FCC1",
+  whatsapp: "https://wa.link/u2nvg2",
 
   // --------------------------------------------------
   // 4. TU TIKTOK
   //    - tiktok_url: el link completo de tu perfil
   //    - tiktok_usuario: tu @usuario (con la @)
   // --------------------------------------------------
-  tiktok_url: "https://www.tiktok.com/@merypacosoliz?_r=1&_t=ZS-95KNbaazSrs",
-  tiktok_usuario: "@merypacosoliz",
+  tiktok_url: "https://www.tiktok.com/@lizbioliffe4?_r=1&_t=ZS-95NZy2IkilI",
+  tiktok_usuario: "@lizbioliffe4",
 
   // --------------------------------------------------
   // 5. TU FACEBOOK
   //    - Abre tu perfil o página → Compartir → Copiar link
   // --------------------------------------------------
-  facebook_url: "https://www.facebook.com/share/1KinRQ92F1/",
+  facebook_url: "https://www.facebook.com/share/1KQUrMC5hD/",
 
 };
